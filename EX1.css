@@ -1,0 +1,80 @@
+body{
+    background-image: url();
+    background-color:#F0F0F0;
+}
+h1{
+    width: 100%;
+    color: #003366;
+    text-align: center;
+}
+.tts{
+    width: 100px;
+    color:  #800020;
+    text-align: center;
+}
+.as{
+    color: #003366;
+}
+.bio{
+    color: #800020;
+}
+.oe{
+    color: #800020;
+}
+.bib{
+    color: #800020;
+}
+#oe1{
+    color: #009dff;
+}
+#oe2{
+    color: #009dff;
+}
+#oe3{
+    color: #009dff;
+}
+#oe4{
+    color: #009dff;
+}
+#oe5{
+    color: #009dff;
+}
+#lbàm{
+    color: #800020;
+}
+.Man1{
+    background-color: #0d6ac7;
+}
+
+.Man2{
+    background-color: #0d6ac7;
+}
+.Woman1{
+    background-color: #d826c0;
+}
+.Woman2{
+    background-color: #d826c0;
+}
+.ol{
+    color: black;
+}
+.lbàm{
+    width: 100%;
+    color: #003366;
+    text-align: center;
+}
+#ch1{
+    width: 320px;
+    color: red;
+    text-align: center;;
+}
+#ch2{
+    width: 320px;
+    color: red;
+    text-align: center;
+   
+}
+.Resumé{
+    color: #800020;
+}
+
